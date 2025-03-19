@@ -13,10 +13,15 @@ export function Header() {
             className="mx-auto"
           />
         </div> */}
-        <h1 className="mt-4 text-[#463e3b] text-7xl uppercase tracking-widest font-light">
+        {/* <h1 className="mt-4 text-[#463e3b]  parisienne-regular" style={{fontSize:'70px'}}>
           Cata y Enzo 
+        </h1> */}
+        <h1 className="mt-4 text-[#463e3b] parisienne-regular text-[70px]">
+            <span className="block sm:inline">Cata </span>
+            <span className="block sm:inline">y </span>
+            <span className="block sm:inline">Enzo</span>
         </h1>
-        <h1 className="mt-8 text-[#463e3b] text-4xl uppercase tracking-widest font-light">
+        <h1 className="mt-8 text-[#463e3b] uppercase tracking-widest font-light" style={{fontSize:'25px'}}>
           ¡NOS CASAMOS!
         </h1>
         <div className="scroll-down"></div>
