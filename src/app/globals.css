@@ -111,7 +111,7 @@ h4 {
 }
 
 .btn {
-  @apply bg-[#a3b993] text-white py-2 px-6 rounded-md uppercase tracking-wide font-medium text-sm hover:bg-opacity-90 transition-all;
+  @apply bg-[#D2B25D] text-white py-2 px-6 rounded-md uppercase tracking-wide font-medium text-sm hover:bg-opacity-90 transition-all;
 }
 
 .btn-alt {

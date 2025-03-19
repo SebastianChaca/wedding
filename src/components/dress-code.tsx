@@ -4,7 +4,7 @@ export function DressCode() {
   
 
   return (
-    <section className="dresscode bg-[#f9f9f9] py-10">
+    <section className="dresscode bg-[#B4C3BE] py-10">
       <div className="container mx-auto px-4 text-center">
         <div className="animated fadeInUp max-w-xl mx-auto">
           <div className="flex justify-center mb-6">
@@ -13,6 +13,7 @@ export function DressCode() {
               alt="Dress Code"
               width={50}
               height={50}
+             
             />
           </div>
 

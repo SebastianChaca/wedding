@@ -19,7 +19,7 @@ export function Accommodations() {
   // Taxis Villa Allende
   // Remis Corva coop Itda
   return (
-    <section className="alojamientos bg-[#d2cbcb] py-12">
+    <section className="alojamientos bg-[#DFEBE7] py-12">
       <div className="container mx-auto px-4 text-center">
         <div className="animated fadeInUp max-w-xl mx-auto">
           <h4 className="text-xl font-semibold mb-3 text-[#463e3b]">INFO ÚTIL</h4>
@@ -29,7 +29,7 @@ export function Accommodations() {
 
           <Dialog open={isDialogOpen} onOpenChange={setIsDialogOpen}>
             <DialogTrigger asChild>
-              <button className="btn-alt">
+              <button className="btn">
                 VER MÁS
               </button>
             </DialogTrigger>

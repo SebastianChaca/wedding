@@ -8,7 +8,7 @@ export function GiftRegistry() {
   const [isDialogOpen, setIsDialogOpen] = useState(false);
 
   return (
-    <section className="cbu bg-[#dbb384] py-14 text-white text-center">
+    <section className="cbu bg-[#50675F] py-14 text-white text-center">
       <div className="container mx-auto px-4">
         <div className="animated fadeInUp max-w-xl mx-auto">
           <div className="flex justify-center mb-6">
@@ -23,7 +23,7 @@ export function GiftRegistry() {
 
           <Dialog open={isDialogOpen} onOpenChange={setIsDialogOpen}>
             <DialogTrigger asChild>
-              <button className="btn-alt bg-white text-[#dbb384] hover:bg-gray-100">
+              <button className="btn">
                 Ver Datos Bancarios
               </button>
             </DialogTrigger>

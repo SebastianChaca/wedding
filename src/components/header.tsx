@@ -13,10 +13,10 @@ export function Header() {
             className="mx-auto"
           />
         </div> */}
-        <h1 className="mt-4 text-[#463e3b] text-4xl uppercase tracking-widest font-light">
+        <h1 className="mt-4 text-[#463e3b] text-7xl uppercase tracking-widest font-light">
           Cata y Enzo 
         </h1>
-        <h1 className="mt-4 text-[#463e3b] text-4xl uppercase tracking-widest font-light">
+        <h1 className="mt-8 text-[#463e3b] text-4xl uppercase tracking-widest font-light">
           ¡NOS CASAMOS!
         </h1>
         <div className="scroll-down"></div>
