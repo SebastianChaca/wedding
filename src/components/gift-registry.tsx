@@ -19,7 +19,7 @@ export function GiftRegistry() {
               height={50}
             />
           </div>
-          <p className="mb-8 text-lg">Si deseás realizarnos un regalo podés colaborar con nuestra Luna de Miel...</p>
+          <p className="mb-8 text-lg"> Tu presencia es lo más importante para nosotros. Si querés hacernos un regalo, podés hacerlo a través de la siguiente colaboracion</p>
 
           <Dialog open={isDialogOpen} onOpenChange={setIsDialogOpen}>
             <DialogTrigger asChild>
@@ -31,14 +31,16 @@ export function GiftRegistry() {
               <div className="text-center">
                 <h3 className="text-xl font-bold text-[#463e3b] mb-4">Datos Bancarios</h3>
                 <ul className="text-left text-[#463e3b] mb-6 space-y-2">
-                  <li>Nombre del Titular: Nombre Apellido</li>
-                  <li>CBU: 12345623561</li>
-                  <li>Alias: agenda.la.fecha</li>
-                  <li>DNI: 32200552</li>
-                  <li>Banco Galicia</li>
+                  <li>Nombre del Titular:  Martinez Zuviria Catalina</li>
+                  <li>Tipo y número de cuenta: Cuentas en Pesos  431-358790/2
+                  </li>
+                  <li>CBU: 0720431388000035879022</li>
+                  <li>Alias: operacionfamilia2025</li>
+                  <li>DNI: 93935244</li>
+                  <li>Banco Santander</li>
                 </ul>
 
-                <h3 className="text-xl font-bold text-[#463e3b] mb-4">Lista de Regalos</h3>
+                {/* <h3 className="text-xl font-bold text-[#463e3b] mb-4">Lista de Regalos</h3>
                 <ul className="text-left text-[#463e3b]">
                   <li>
                     <a
@@ -50,7 +52,7 @@ export function GiftRegistry() {
                       Falabella Novios
                     </a>
                   </li>
-                </ul>
+                </ul> */}
               </div>
             </DialogContent>
           </Dialog>
