@@ -22,10 +22,9 @@ export function Ceremony() {
             <div className="text-center">
               <h4 className="text-xl font-semibold mb-3 text-[#463e3b]">Ceremonia</h4>
               <p className="text-[#463e3b] mb-6 leading-relaxed">
-                13 de Diciembre <br />
-                20:30 hs.<br />
-                Iglesia Nuestra Señora Señora de Loreto<br />
-                Av Fuerza Aérea Argentina 6500.<br />
+                13 de Diciembre 20:30 hs. <br />
+                Iglesia Nuestra Señora de Loreto<br />
+                Av Fuerza Aérea Argentina 6500, Córdoba.<br />
                 Recibí debajo las indicaciones para llegar.
               </p>
               <Link
