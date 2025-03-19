@@ -19,13 +19,13 @@ export default function Home() {
       <Header />
 
       {/* Countdown Section */}
-      <Countdown />
+      {/* <Countdown /> */}
 
       {/* Ceremony & Reception Details */}
       <Ceremony />
 
       {/* Gallery Section */}
-      <Gallery />
+      {/* <Gallery /> */}
 
       {/* Gift Registry Section */}
       <GiftRegistry />
