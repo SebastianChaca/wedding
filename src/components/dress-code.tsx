@@ -1,6 +1,8 @@
 import Image from "next/image";
 
 export function DressCode() {
+  
+
   return (
     <section className="dresscode bg-[#f9f9f9] py-10">
       <div className="container mx-auto px-4 text-center">
@@ -14,8 +16,8 @@ export function DressCode() {
             />
           </div>
 
-          <h4 className="text-xl font-semibold mb-3 text-[#463e3b]">DRESS CODE</h4>
-          <p className="text-[#463e3b]">Vestimenta formal, elegante</p>
+          <h4 className="text-xl font-semibold mb-3 text-[#463e3b]">VESTIMENTA</h4>
+          <p className="text-[#463e3b]">Para honrar la solemnidad de la celebración y el sagrado lugar donde se llevará a cabo, les pedimos vestir con decoro y modestia, en consonancia con el espíritu cristiano.</p>
         </div>
       </div>
     </section>

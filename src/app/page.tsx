@@ -31,16 +31,16 @@ export default function Home() {
       <GiftRegistry />
 
       {/* Instagram Section */}
-      <Instagram />
+      {/* <Instagram /> */}
 
       {/* Dress Code Section */}
       <DressCode />
 
       {/* Confirm Attendance Section */}
-      <ConfirmAttendance />
+      {/* <ConfirmAttendance /> */}
 
       {/* Song Suggestions Section */}
-      <MusicSuggestions />
+      {/* <MusicSuggestions /> */}
 
       {/* Accommodations Info */}
       <Accommodations />
@@ -49,7 +49,7 @@ export default function Home() {
       <Thank />
 
       {/* Contact & Footer */}
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }

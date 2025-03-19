@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Belu & Amadeo - Invitación de Boda",
-  description: "¡Nos Casamos! Belu & Amadeo te invitan a su boda.",
+  title: "Cata & Enzo  - Invitación de Boda",
+  description: "¡Nos Casamos! Cata & Enzo te invitan a su boda.",
 };
 
 export default function RootLayout({
