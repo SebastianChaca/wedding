@@ -20,7 +20,7 @@ export function GiftRegistry() {
             />
           </div>
           <h4 className="text-xl font-semibold mb-3 text-[#ffffff]">REGALO</h4>
-          <p className="mb-8 text-lg"> Tu presencia es lo más importante para nosotros. Si querés hacernos un regalo, podés hacerlo a través de la siguiente colaboración</p>
+          <p className="mb-8 text-lg"> Tu presencia es lo más importante para nosotros. Si querés hacernos un regalo, podés hacerlo a través de la siguiente colaboración.</p>
 
           <Dialog open={isDialogOpen} onOpenChange={setIsDialogOpen}>
             <DialogTrigger asChild>
