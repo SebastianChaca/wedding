@@ -23,7 +23,7 @@ export function Ceremony() {
               <h4 className="text-xl font-semibold mb-3 text-[#463e3b]">Ceremonia</h4>
               <p className="text-[#463e3b] mb-6 leading-relaxed">
                 12 de diciembre 19.30hs.<br />
-                Iglesia Nuestra Señora de Loreto<br />
+                Iglesia Nuestra Señora de Loreto.<br />
                 Av Fuerza Aérea Argentina 6500, Córdoba.<br />
                 Recibí debajo las indicaciones para llegar.
               </p>
@@ -50,7 +50,7 @@ export function Ceremony() {
             <div className="text-center">
               <h4 className="text-xl font-semibold mb-3 text-[#463e3b]">Fiesta</h4>
               <p className="text-[#463e3b] mb-6 leading-relaxed">
-                Después de la ceremonia<br />
+                Después de la ceremonia:<br />
                 Mansueto 1912 Aguaribay, Saldán, Córdoba<br />            
                 ¡Te esperamos!
               </p>
