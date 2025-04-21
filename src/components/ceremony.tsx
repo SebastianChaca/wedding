@@ -51,7 +51,8 @@ export function Ceremony() {
               <h4 className="text-xl font-semibold mb-3 text-[#463e3b]">Fiesta</h4>
               <p className="text-[#463e3b] mb-6 leading-relaxed">
                 Después de la ceremonia:<br />
-                Mansueto 1912 Aguaribay, Saldán, Córdoba.<br />            
+                Mansueto 1912 <br />  
+                Aguaribay, Saldán, Córdoba.<br />            
                 ¡Te esperamos!
               </p>
               <Link
